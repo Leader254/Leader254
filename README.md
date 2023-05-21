@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/samkaka_" target="blank"><img src="https://img.shields.io/twitter/follow/samkaka_?logo=twitter&style=for-the-badge" alt="samkaka_" /></a> </p>
 
-- 🔭 I’m currently working on Node.Js and Mongodb
+- 🔭 I’m currently working on React.Js
 
 - 🌱 I’m currently learning **M.E.R.N stack.**
 

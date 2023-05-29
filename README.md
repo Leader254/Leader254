@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leader254&show_icons=true&locale=en" alt="leader254" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leader254&" alt="leader254" /></p>
+
+<figure><embed src="https://wakatime.com/share/@Wachira/29478618-5233-4316-b065-e6ecfa2244de.svg"></embed></figure>

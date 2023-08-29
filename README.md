@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samuel Wachira</h1>
-<h3 align="center">A passionate Javascript web developer.</h3>
+<h3 align="center">A passionate web developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/samkaka_" target="blank"><img src="https://img.shields.io/twitter/follow/samkaka_?logo=twitter&style=for-the-badge" alt="samkaka_" /></a> </p>
 
-- 🔭 I’m currently working on React.Js
+- 🔭 I’m currently working on React.Js and .NET
 
-- 🌱 I’m currently learning **M.E.R.N stack.**
+- 🌱 I’m currently learning **M.E.R.N stack.** & **.NET**
 
-- 👯 I’m looking to collaborate on **Javascript projects**
+- 👯 I’m looking to collaborate on **Javascript projects** & **.NET**
 
 - 📝 I regularly write articles on [https://dev.to/samuelwachira/python-for-data-science-179i](https://dev.to/samuelwachira/python-for-data-science-179i)
 

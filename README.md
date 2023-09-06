@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leader254&" alt="leader254" /></p>
 
 <figure><embed src="https://wakatime.com/share/@Wachira/29478618-5233-4316-b065-e6ecfa2244de.svg"></embed></figure>
-![Visitor Count](https://profile-counter.glitch.me/{Leader254}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leader254&label=Profile%20views&color=0e75b6&style=flat" alt="leader254" /> </p>

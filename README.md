@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/samkaka_" target="blank"><img src="https://img.shields.io/twitter/follow/samkaka_?logo=twitter&style=for-the-badge" alt="samkaka_" /></a> </p>
 
-- 🔭 I’m currently working on React.Js and .NET
+- 🔭 I’m currently working on React.Js, NextJS and .NET
 
-- 🌱 I’m currently learning **M.E.R.N stack.** & **.NET**
+- 🌱 I’m currently learning **Javascript** & **.NET**
 
 - 👯 I’m looking to collaborate on **Javascript projects** & **.NET**
 
